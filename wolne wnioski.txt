@@ -1,0 +1,1 @@
+Wykorzystaliśmy zbiór danych na temat chorób serca, użyliśmy algorytmu najbliższych sąsiadów i drzewa decyzyjnego. Z tych dwóch  lepiej sprawdziło się drzewo decyzyjne (dokładność ok.92% w porównaniu do 79%)co według nas bierze się z faktu, że zbiór jest dość mały i być może przy większym zbiorze KNN sprawdził by się lepiej.
